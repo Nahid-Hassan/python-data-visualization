@@ -4,4 +4,4 @@ Python data visualization using Matplotlib and Seaborn.
 
 ### Matplotlib.pyplot - Plot() 
 
-![images]('./ashik_bhai_phd/Hill-Langmuir-Binding.png')
+![images](ashik_bhai_phd/Hill-Langmuir-Binding.png)
